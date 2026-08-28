@@ -2,7 +2,7 @@
 
 <img width="340" align="right" src='https://github-readme-stats.vercel.app/api?username=ArthurSilvani&show_icons=true&theme=dark'/>
 
-##### Python
+##### live and learn
 
 
 ### Skills
